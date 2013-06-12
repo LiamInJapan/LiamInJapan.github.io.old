@@ -1,29 +1,13 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Hello, World
+tagline: 
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
+Hello and welcome to my blog. Here I hope to share with you some of my thoughts, ideas, concerns, notes and anything else that might pop into my head on my (very) long and winding path to programming. At the moment I am primarily an iOS Developer, so my posts are likely to be related to Objective-C and the iOS platform. However, I have been known to be somewhat of a dabbler, and recent dabbling has also included plenty of C# and Python. I believe in the right tool for the job, and I believe a good programmer should understand and appreciate the wealth of languages and tools available to them out there, and understand where and when to apply them. I hope you enjoy!
     
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+## Posts
 
 This blog contains sample posts which help stage pages and blog data.
 When you don't need the samples anymore just delete the `_posts/core-samples` folder.
